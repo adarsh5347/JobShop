@@ -1,2 +1,4 @@
-# JobShop
-Rebuilding the jobshop website
+<<<<<<< HEAD
+
+  
+>>>>>>> 08746a9 (Initial frontend commit)
